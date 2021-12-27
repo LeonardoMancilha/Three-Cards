@@ -87,7 +87,7 @@ button {
 .Html button:hover { /* Quando o usuário passar o mouse por cima do botão a cor será vermelha */
     background-color: hsl(14, 79%, 53%);
     color: hsl(0, 0%, 95%);
-    border: 2px solid hsl(0, 0%, 95%) ;
+    border: 2px solid hsl(0, 0%, 95%);
 }
 
 .Css button{ /* Cor de fundo */
@@ -97,7 +97,7 @@ button {
 .Css button:hover {
     background-color: #5171fffb;
     color: hsl(0, 0%, 95%);
-    border: 2px solid hsl(0, 0%, 95%) ;
+    border: 2px solid hsl(0, 0%, 95%);
 }
 
 .Javascript button {
@@ -107,7 +107,7 @@ button {
 .Javascript button:hover {
     background-color: #f3f311af;
     color: hsl(0, 0%, 95%);
-    border: 2px solid hsl(0, 0%, 95%) ;
+    border: 2px solid hsl(0, 0%, 95%);
 }
 
 @media (max-width: 675px) { /* Css Responsivo */
